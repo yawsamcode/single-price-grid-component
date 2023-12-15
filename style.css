@@ -26,13 +26,15 @@ body {
 .container {
   width: 40%;
   margin: 70px auto;
+  border: 0.1px solid transparent;
+  border-radius: 8px;
+  overflow: hidden;
 }
 
 .join-card {
   background-color: white;
   padding: 30px;
   line-height: 25px;
-  border-radius:  10px 10px 0 0;
 }
 
 .signup-card {
@@ -49,7 +51,6 @@ body {
   line-height: 24px;
   opacity: 70%;
   font-size: 14px;
-  border-radius: 0 0 10px 0 ;
 }
 
 .subcription {
@@ -76,6 +77,9 @@ margin-top: 15px;
 margin:15px auto;
 }
 
+.signup-button:hover {
+  opacity: 80%;
+}
 
 #title {
   margin-bottom: 20px;
@@ -127,7 +131,7 @@ footer {
 }
 
 @media (min-width: 1440px) {
-  .grid {
+  .card {
     display: grid;
     width: 100%;
     grid-template-columns: 50% 1fr;
