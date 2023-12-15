@@ -1,55 +1,58 @@
-<h1 align="center">Order Summary Component</h1>
+<h1 align="center">Single Price Grid Component</h1>
 
-<p>The order summary component is a simple front-end project I built as part of a challenge I took on the Front End Mentor website.</p>
+<p>This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  </p>
 
+## Table of contents
+
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Demo](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 <h2>🚀 Demo</h2>
-<h3><a href="https://yawsamcode.github.io/order_summary_component/"> 👉 Click Here </a></h3>
+<h3><a href="https://yawsamcode.github.io/single-price-grid-component/"> 👉 Click Here </a></h3>
 
 
-<h2>Project Screenshots:</h2>
+## 🧐The challenge
 
-<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702511481/project%20screen%20shots/fz5anhixg5wszdgthw9x.png" alt="shields">
+Users should be able to:
 
-  
-  
-<h2>🧐 Features</h2>
+- View the optimal layout for the component depending on their device's screen size
+- See a hover state on desktop for the Sign Up call-to-action
 
-Here are some of the project's best features:
+## 📸Project Screenshots
 
-*   Easy to Use
-*   Clean UI
-
-
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. Clone the repository</p>
-
-```
-git clone repo_url
-```
-
-<p>2. Install npm modules</p>
-
-
-<h2>🍰 Contribution Guidelines:</h2>
-
-Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow/). Create a branch add commits and open a pull request.
+<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702629082/desktop-design_fcqpzu.jpg" alt="shields">
+<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702629038/mobile-design_rtvmfn.jpg" alt="shields">
 
   
-  
-<h2>💻 Built with</h2>
+## 💻 Built with
 
 Technologies used in the project:
 
 *  HTML
 *  CSS
 
+
+## 📖 What I learned
+
+<p>This challenge helped to reinforce my skills in the use of grid</p>
+
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
 
+
+## 🤴Author
+
+[Samuel Acheampong](https://www.linkedin.com/in/yawsamcode/)
+
+## 🤝Acknowledgments
+
+
 <h2>💖Like my work?</h2>
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.   
-
