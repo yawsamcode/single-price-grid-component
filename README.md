@@ -5,13 +5,16 @@
 ## Table of contents
 
   - [The challenge](#the-challenge)
-  - [Screenshot](# 📸Project Screenshots)
-  - [Demo](#links)
+  - [Screenshot](#screenshot)
+  - [Demo](#demo)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
+## 🚀 Demo
+
+<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
 
 
 ## 🛠 The challenge
