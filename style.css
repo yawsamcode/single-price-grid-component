@@ -19,7 +19,7 @@ body {
   background-color: var(--light-gray);
   font-size: 16px;
   min-height: 100vh;
-  display: flex;    
+  display: flex;
   flex-direction: column;
 }
 
