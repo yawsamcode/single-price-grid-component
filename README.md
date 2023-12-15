@@ -6,17 +6,18 @@
 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Demo](#links)
+  - [Demo](#demo)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-<h2>🚀 Demo</h2>
-<h3><a href="https://yawsamcode.github.io/single-price-grid-component/"> 👉 Click Here </a></h3>
+## 🚀 Demo
+
+<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
 
 
-## 🧐The challenge
+## 🛠 The challenge
 
 Users should be able to:
 
