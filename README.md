@@ -2,12 +2,19 @@
 
 <p>This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  </p>
 
-<h2>🚀 Demo</h2>
+## Table of contents
 
-<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
+  - [The challenge](#the-challenge)
+  - [Screenshot](# 📸Project Screenshots)
+  - [Demo](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 
-## 🛠 The challenge 🛠
+
+## 🛠 The challenge
 
 Users should be able to:
 
@@ -39,7 +46,7 @@ This project is licensed under the MIT License
 
 ## 🤴Author
 
-### [Samuel Acheampong](https://www.linkedin.com/in/yawsamcode/)
+[Samuel Acheampong](https://www.linkedin.com/in/yawsamcode/)
 
 ## 🤝Acknowledgments
 
