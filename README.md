@@ -4,7 +4,6 @@
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Demo](#links)
@@ -16,7 +15,8 @@
 <h2>🚀 Demo</h2>
 <h3><a href="https://yawsamcode.github.io/single-price-grid-component/"> 👉 Click Here </a></h3>
 
-### 🧐The challenge
+
+## 🧐The challenge
 
 Users should be able to:
 
@@ -48,7 +48,7 @@ This project is licensed under the MIT License
 
 ## 🤴Author
 
-- Frontend Mentor - [@yawsamcode](https://www.linkedin.com/in/yawsamcode/)
+[Samuel Acheampong](https://www.linkedin.com/in/yawsamcode/)
 
 ## 🤝Acknowledgments
 
