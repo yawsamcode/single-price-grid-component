@@ -13,7 +13,8 @@
   - [Acknowledgments](#acknowledgments)
 
 <h2>🚀 Demo</h2>
-<h3><a href="https://yawsamcode.github.io/single-price-grid-component/"> 👉 Click Here </a></h3>
+
+<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
 
 
 ## 🧐The challenge
