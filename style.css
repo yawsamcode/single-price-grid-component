@@ -18,11 +18,8 @@ body {
   font-family: "Red Hat Display", sans-serif;
   background-color: var(--light-gray);
   font-size: 16px;
-  
-  /* 3 lines below makes footer stick to the bottom */
-
   min-height: 100vh;
-  display: flex;
+  display: flex;    
   flex-direction: column;
 }
 
