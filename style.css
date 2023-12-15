@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Red+Hat+Display:wght@500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Red+Hat+Display:wght@500;700;900&display=swap");
 
 :root {
   --cyan: hsl(179, 62%, 43%);
@@ -14,7 +14,8 @@
 }
 
 body {
-  font-family: Karla;
+  font-family: "Karla", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   background-color: var(--light-gray);
   font-size: 16px;
   /* 3 lines below makes footer stick to the bottom */
@@ -64,17 +65,16 @@ body {
 }
 
 .signup-button {
-cursor: pointer;
-background-color: var(--bright-yellow);
-width: 80%;
-border: none;
-color: white;
-font-size: 16px;
-padding: 15px;
-border-radius: 5px;
-font-weight: bold;
-margin-top: 15px;
-margin:15px auto;
+  cursor: pointer;
+  background-color: var(--bright-yellow);
+  width: 80%;
+  border: none;
+  color: white;
+  font-size: 16px;
+  padding: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 15px auto;
 }
 
 .signup-button:hover {
@@ -107,14 +107,14 @@ h1 {
   font-size: 20px;
 }
 
-.attribution { 
-  font-size: 10px; 
-  text-align: center; 
+.attribution {
+  font-size: 10px;
+  text-align: center;
   margin-bottom: 10px;
 }
 
-.attribution a { 
-  color: hsl(228, 45%, 44%); 
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 footer {
@@ -126,8 +126,7 @@ footer {
 @media (max-width: 375px) {
   .signup-button {
     width: 100%;
-    }
-    
+  }
 }
 
 @media (min-width: 1440px) {
